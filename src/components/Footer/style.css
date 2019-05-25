@@ -1,0 +1,13 @@
+
+.wrapper { position: relative; }
+
+.errspan { position: absolute; top: 45%; left: 15px; color: #5297D6; }
+
+.contactUs input {
+    width: 15%;
+    margin-top: 10px;
+    padding: 10px;
+    color: white;
+    background-color: #5297D6;
+    border-color: #5297D6;
+}
